@@ -1,0 +1,10 @@
+line-bot-sdk 
+flask==2.1.0
+flask_cors
+boto3
+pandas
+openpyxl
+wheel
+grpcio
+gunicorn
+google-cloud-logging
